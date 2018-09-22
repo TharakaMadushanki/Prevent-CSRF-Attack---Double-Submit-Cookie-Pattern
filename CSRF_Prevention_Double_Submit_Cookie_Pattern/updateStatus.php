@@ -18,6 +18,7 @@ if(isset($_POST['username'],$_POST['password'])){
 		exit();
 	}	
 }
+?>
 
 <!DOCTYPE html>
 <html>
