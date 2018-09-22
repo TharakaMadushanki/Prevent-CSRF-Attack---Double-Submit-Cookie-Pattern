@@ -60,7 +60,7 @@ if(isset($_POST['username'],$_POST['password'])){
 			</div>					
 		</form>						
 		<div class="footer">
-			<p>Cross Site Request Forgery Protection  |  Synchronizer Token Pattern  |  Tharaka Liyanage  |  IT13015886</p>
+			<p>Cross Site Request Forgery Protection  |  Double Submit Cookie Pattern  |  Tharaka Liyanage  |  IT13015886</p>
 		</div>
 	</body> 
 </html>

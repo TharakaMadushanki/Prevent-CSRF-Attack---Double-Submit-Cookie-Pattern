@@ -15,7 +15,7 @@
 			</form>
 		</div>
 		<div class="footer">
-			<p>Cross Site Request Forgery Protection  |  Doublr Submit Cookie Pattern  |  Tharaka Liyanage  |  IT13015886</p>
+			<p>Cross Site Request Forgery Protection  |  Double Submit Cookie Pattern  |  Tharaka Liyanage  |  IT13015886</p>
 		</div>
 	</body>
 </html>
